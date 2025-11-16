@@ -67,6 +67,7 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 <img width="808" height="181" alt="image" src="https://github.com/user-attachments/assets/e67e1574-f5c9-44f7-bda8-99ccf35e1553" />
 
 Beam voltage	: 7.5V
+
 Beam current	: 220mA
 
 **PARABOLICANTENNA**
@@ -74,7 +75,9 @@ Beam current	: 220mA
 <img width="941" height="266" alt="image" src="https://github.com/user-attachments/assets/c5482e76-fa03-48bc-a287-01443f2def8b" />
 
 Beam voltage : 7.5V
+
 Beam current : 220mA
+
 Repeller voltage : -3V
 V1 : 1.00V
 
