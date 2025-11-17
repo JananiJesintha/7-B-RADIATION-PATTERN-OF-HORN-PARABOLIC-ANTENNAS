@@ -60,25 +60,25 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 
 **TABULATION:** 
 
-<img width="896" height="610" alt="image" src="https://github.com/user-attachments/assets/1da26512-5cbc-4572-9a4e-ce8ea50def1b" />
+<img width="1035" height="1280" alt="image" src="https://github.com/user-attachments/assets/d664f996-5801-4187-98e3-45b6fd3246ec" />
+
+<img width="897" height="1280" alt="image" src="https://github.com/user-attachments/assets/4340b489-937b-42bf-b833-7038cae469df" />
+
 
 **HORN ANTENNA** 
 
-<img width="808" height="181" alt="image" src="https://github.com/user-attachments/assets/e67e1574-f5c9-44f7-bda8-99ccf35e1553" />
-
-Beam voltage	: 7.5V
+Beam voltage	: 235 V
 
 Beam current	: 220mA
 
 **PARABOLICANTENNA**
 
-<img width="941" height="266" alt="image" src="https://github.com/user-attachments/assets/c5482e76-fa03-48bc-a287-01443f2def8b" />
+Beam voltage : 235 V
 
-Beam voltage : 7.5V
+Beam current : 164 mV
 
-Beam current : 220mA
+Repeller voltage : 42 V
 
-Repeller voltage : -3V
 V1 : 1.00V
 
 **RESULT:**
